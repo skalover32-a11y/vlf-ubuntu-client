@@ -6,6 +6,19 @@ VPN-клиент на базе sing-box с поддержкой VLESS / Reality 
 - **Поддерживаемые дистрибутивы:** Ubuntu 20.04+, Debian 11+, любые deb-совместимые с GTK 3
 - **Архитектура:** x86_64 (amd64)
 
+## Security, Privacy and Transparency
+
+This repository is part of the VLF ecosystem. The following documents describe the security, privacy, architecture and audit-readiness status of this component:
+
+- [Security Policy](./SECURITY.md)
+- [Privacy Overview](./PRIVACY.md)
+- [Architecture](./ARCHITECTURE.md)
+- [Audit Status](./AUDIT.md)
+- [Threat Model](./THREAT_MODEL.md)
+- [Changelog](./CHANGELOG.md)
+
+Please note: A formal independent third-party security audit has not yet been completed unless explicitly stated in `AUDIT.md`.
+
 ## Установка
 
 ### Через .deb (рекомендуется)
